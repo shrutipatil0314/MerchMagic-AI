@@ -1,0 +1,7 @@
+{
+  "name": "MerchMagic AI",
+  "description": "Transform your brand logos into professional product mockups instantly using Gemini 2.5 Flash Image. Generate, edit, and export high-quality merch previews with simple text prompts.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
